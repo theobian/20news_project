@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+data/**
+/data/20news-19997/20_newsgroups/**
+/data/**
